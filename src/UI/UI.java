@@ -48,9 +48,7 @@ public class UI {
     
 
     /*
-    Descriere: constructor cu parameterii
-    Input: ControllerAbonat ctrl_abonat, ControllerConsum ctrl_consum
-    Output: ---
+    Descriere: constructor cu param
     */
 
     public UI(Controller_Carti ctrl_carti, Controller_Autori ctrl_autori,Controller_Editura ctrl_edituri, Controller_Domeniu ctrl_domenii) {
